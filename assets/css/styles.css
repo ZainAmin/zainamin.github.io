@@ -175,6 +175,12 @@ section {
   padding-bottom:50px;
 }
 
+.social-link {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 36px;
+  }
+
 small {
   font-size:11px;
 }
