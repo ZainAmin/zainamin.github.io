@@ -232,18 +232,12 @@ hr {
   margin:0 0 20px;
 }
 
-
-
-.footer {
-   position: fixed;
-   padding: 10px;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: white;
-   border: 1px solid #003F77;
-   color: #003F77;
-   text-align: center;
+footer {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 @media print, screen and (max-width: 960px) {
