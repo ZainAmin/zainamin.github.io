@@ -225,7 +225,7 @@ section {
   display: none;
   position: fixed;
   bottom: 20px;
-  right: 50px;
+  right: 45px;
   z-index: 99;
   font-size: 18px;
   border: none;
@@ -233,7 +233,7 @@ section {
   background-color: #003F77;
   color: white;
   cursor: pointer;
-  padding: 12px;
+  padding: 13px;
   border-radius: 50%;
 }
 
